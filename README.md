@@ -12,7 +12,6 @@ Then require ('waka-flocka-frame') in your project.
 
 ```var wwf = require('waka-flocka-frame')```
 
-
 Router Methods
 <ul>
   <li><a href="#get-request">wff.router.get</a></li>
